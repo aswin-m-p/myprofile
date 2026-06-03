@@ -694,6 +694,8 @@ img {
   background-color: var(--container-color);
   padding: 1.5rem;
   border-radius: .5rem;
+  overflow-y: scroll;
+  max-height: -webkit-fill-available;
 
 }
 
